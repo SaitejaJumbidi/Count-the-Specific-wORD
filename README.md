@@ -1,3 +1,2 @@
-# Count-the-Specific-wORD
-Suppose if you have a large paragraph in which you want to count the number of time a specific word is repeated. 
-This application helps you to count the number of times your word is repeated directly insted of manual counting 
+# Movie_Recommendation_System
+The Movie Recommendation System is a project designed to suggest movies to users based on their preferences. Using Python, pandas, and machine learning techniques, the system analyzes various features of movies such as genre, keywords, tagline, cast, and director to provide personalized movie recommendations. This project leverages the power of natural language processing (NLP) and similarity metrics to enhance the movie-watching experience.
